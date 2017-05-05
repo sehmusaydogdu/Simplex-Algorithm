@@ -1,0 +1,12 @@
+C:\Users\Acer\Desktop\SimplexAlgorithm\SimplexAlgorithm\bin\Debug\SimplexAlgorithm.exe.config
+C:\Users\Acer\Desktop\SimplexAlgorithm\SimplexAlgorithm\bin\Debug\SimplexAlgorithm.exe
+C:\Users\Acer\Desktop\SimplexAlgorithm\SimplexAlgorithm\bin\Debug\SimplexAlgorithm.pdb
+C:\Users\Acer\Desktop\SimplexAlgorithm\SimplexAlgorithm\obj\Debug\SimplexAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\SimplexAlgorithm\SimplexAlgorithm\obj\Debug\SimplexAlgorithm.exe
+C:\Users\Acer\Desktop\SimplexAlgorithm\SimplexAlgorithm\obj\Debug\SimplexAlgorithm.pdb
+C:\Users\Acer\Desktop\Odev\SimplexAlgorithm\SimplexAlgorithm\bin\Debug\SimplexAlgorithm.exe.config
+C:\Users\Acer\Desktop\Odev\SimplexAlgorithm\SimplexAlgorithm\bin\Debug\SimplexAlgorithm.exe
+C:\Users\Acer\Desktop\Odev\SimplexAlgorithm\SimplexAlgorithm\bin\Debug\SimplexAlgorithm.pdb
+C:\Users\Acer\Desktop\Odev\SimplexAlgorithm\SimplexAlgorithm\obj\Debug\SimplexAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Odev\SimplexAlgorithm\SimplexAlgorithm\obj\Debug\SimplexAlgorithm.exe
+C:\Users\Acer\Desktop\Odev\SimplexAlgorithm\SimplexAlgorithm\obj\Debug\SimplexAlgorithm.pdb
